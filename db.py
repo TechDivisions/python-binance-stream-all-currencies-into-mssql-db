@@ -2,7 +2,7 @@ import datetime
 import pyodbc
 import uuid
 
-server = 'DESKTOP-DLPF745\MSSQLSERVER01'
+server = 'YOUR_SERVER_NAME'
 database = 'ALL_CURRENCIES'
 username = 'py'
 password = '111'
